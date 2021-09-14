@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Saadh"
+  given-names: "Jawwadh"
+  orcid: "https://github.com/SaadhJawwadh"
+title: "Invincible cloak"
+version: 1.0.0
+date-released: 2021-08-10
+url: "https://github.dev/SaadhJawwadh/Invisible_Cloak_Python"
